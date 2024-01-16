@@ -1,5 +1,5 @@
-# Goodleaf
-> Goodleaf is a project by YSC to help farmers all over the world by bringing them closer to each other. 
+# PlantiX
+> PLANTIX is a project to help farmers all over the world by bringing them closer to each other. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -21,9 +21,9 @@ Farmers globally can interact understanding each other's areas' plant species .
 Along with farming , this can also , in coming times be developed as a portal for Animal Husbandry , Dairy , Interactions  thus giving back to the community a lot of learnings , agriculture related career trainings and ultimately , becoming a shared platform for all the farmers as well as aspirants in the farming sector.
 
 ## Screenshots
-![Upload-Page](/images/screenshot.png)
-![Another-Thing](/images/screenshot2.png)
-![Another-Thing](/images/screenshot3.png)
+![Upload-Page](C:\Users\hp\Desktop\PlantiX\plantix images\IMG-20231216-WA0000)
+![Another-Thing]()
+![Another-Thing]()
 
 
 ## Technologies
