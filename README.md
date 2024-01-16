@@ -21,9 +21,9 @@ Farmers globally can interact understanding each other's areas' plant species .
 Along with farming , this can also , in coming times be developed as a portal for Animal Husbandry , Dairy , Interactions  thus giving back to the community a lot of learnings , agriculture related career trainings and ultimately , becoming a shared platform for all the farmers as well as aspirants in the farming sector.
 
 ## Screenshots
-![Upload-Page](C:\Users\hp\Desktop\PlantiX\plantix images\IMG-20231216-WA0000)
-![Another-Thing]()
-![Another-Thing]()
+![IMG-20231216-WA0000](https://github.com/devarshpatel1506/PlantiX/assets/69602242/fc8fd6bf-3799-455a-a8b0-7ef16a691c50)
+![IMG-20231216-WA0013](https://github.com/devarshpatel1506/PlantiX/assets/69602242/b2a1eb7c-62fc-46d9-aae0-6e4508e1c349)
+
 
 
 ## Technologies
