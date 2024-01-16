@@ -23,8 +23,16 @@ Along with farming , this can also , in coming times be developed as a portal fo
 ## Screenshots
 ![IMG-20231216-WA0000](https://github.com/devarshpatel1506/PlantiX/assets/69602242/fc8fd6bf-3799-455a-a8b0-7ef16a691c50)
 ![IMG-20231216-WA0013](https://github.com/devarshpatel1506/PlantiX/assets/69602242/b2a1eb7c-62fc-46d9-aae0-6e4508e1c349)
-
-
+![IMG-20231216-WA0001](https://github.com/devarshpatel1506/PlantiX/assets/69602242/d46c4273-cd4f-4f58-914f-16395ac62287)
+![IMG-20231216-WA0002](https://github.com/devarshpatel1506/PlantiX/assets/69602242/0dababa7-ab07-4b6c-9646-a333ac93fc01)
+![IMG-20231216-WA0003](https://github.com/devarshpatel1506/PlantiX/assets/69602242/002fcd03-78e8-41f9-913a-fe4e6e85085e)
+![IMG-20231216-WA0005](https://github.com/devarshpatel1506/PlantiX/assets/69602242/75d89a54-e95d-4e69-9aae-d33eca2854af)
+![IMG-20231216-WA000![IMG-20231216-WA0007](https://github.com/devarshpatel1506/PlantiX/assets/69602242/e4e21be2-8b9d-4c83-9fd4-49e1fb1934ee)
+![IMG-20231216-WA0007](https://github.com/devarshpatel1506/PlantiX/assets/69602242/549f48ff-f159-43e6-951e-5a762eb31eda)
+![IMG-20231216-WA0008](https://github.com/devarshpatel1506/PlantiX/assets/69602242/908bab1d-9568-4734-81ab-3f49820956c8)
+![IMG-20231216-WA0010](https://github.com/devarshpatel1506/PlantiX/assets/69602242/4d46aa3d-472d-449a-91c8-3a9ae221b1a0)
+![IMG-20231216-WA0012](https://github.com/devarshpatel1506/PlantiX/assets/69602242/65e67fd8-6130-4881-8072-b5a995bb8a42)
+![IMG-20231216-WA0004](https://github.com/devarshpatel1506/PlantiX/assets/69602242/4f72a8e9-a34c-4869-8963-44cb9dcf408f)
 
 ## Technologies
 The cutting edge deep learning model is at the heart of Goodleaf. It takes the advantages of transfer learning to classify diseased and healthy leaves into 38 categories (which will surely increase in near future) with high accuracy. Not just classify but it also provides solutions to the problems within a few seconds. Also, it aggregates other posts in the forum belonging which belong to the category of the classified leaf.
